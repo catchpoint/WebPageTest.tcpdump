@@ -1,0 +1,8 @@
+/.vs/tcpdump/v14/*.suo
+/Debug
+/Release/*.obj
+/Release/*.log
+/Release
+/ipch/TCPDUMP-10b129ed
+/tcpdump.VC.db
+/tcpdump.vcxproj.user
